@@ -1,0 +1,28 @@
+h2 {
+    color : blanco;
+    sombra de texto :  1 px  2 px  2 px negro ,  0  0  25 xp azul ,  0  0  5 px azul;
+    alineación de texto : centro;
+}
+
+división _ cartelero {
+    margen :  10 px  20 px ;
+    box-shadow :  0  4 px  8 px  0 lightseagreen ,  0  6 px  20 px  0  rgba ( 0 ,  0 ,  0 ,  19 );
+    flotante : izquierda;
+    ancho :  350 píxeles ;
+}
+
+división _ galeria  img {
+    ancho :  100 % ;
+    altura : automático;
+}
+
+división _ galería : flotar {
+    borde :  1 px coral claro sólido;
+    transformar :  rotar ( -5 grados );
+}
+
+división _ tarta {
+    alineación de texto : centro;
+    sombra de texto :  2 px  2 px  5 px violeta;
+    relleno :  10 px ;
+}
